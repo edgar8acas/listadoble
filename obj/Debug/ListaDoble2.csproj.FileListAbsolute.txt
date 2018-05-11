@@ -1,0 +1,10 @@
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\bin\Debug\ListaDoble2.exe.config
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\bin\Debug\ListaDoble2.exe
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\bin\Debug\ListaDoble2.pdb
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\obj\Debug\ListaDoble2.csprojResolveAssemblyReference.cache
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\obj\Debug\ListaDoble2.Form1.resources
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\obj\Debug\ListaDoble2.Properties.Resources.resources
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\obj\Debug\ListaDoble2.csproj.GenerateResource.cache
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\obj\Debug\ListaDoble2.csproj.CoreCompileInputs.cache
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\obj\Debug\ListaDoble2.exe
+c:\users\caste\source\repos\ListaDoble2\ListaDoble2\obj\Debug\ListaDoble2.pdb
